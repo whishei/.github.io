@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Automated Segmentation and Chord Length Distribution of Melt Pools in Complex 3D Printed Metal Artifacts."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-12-27-Automated-Segmentation-and-Chord-Length-Distribution-of-Melt-Pools-in-Complex-3D-Printed-Metal-Artifacts
+date: 2023-12-27
+venue: 'Integrated Materials and Manufacturing Innovation'
+citation: 'Whitman, Sheila E., Guangyu Hu, Hunter C. Taylor, Ryan B. Wicker, and Marat I. Latypov. (2023). &quot;Automated Segmentation and Chord Length Distribution of Melt Pools in Complex 3D Printed Metal Artifacts.&quot; <i>Integrated Materials and Manufacturing Innovation</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Use [Springer Link](https://link.springer.com/article/10.1007/s40192-023-00329-z){:target="_blank"} for full citation
