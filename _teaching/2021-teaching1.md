@@ -2,9 +2,9 @@
 title: "Math 107"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2022-107
+permalink: /teaching/2021-107
 venue: "University of Arizona"
-date: 2022-08-15
+date: 2021-08-15
 location: "Tucson, AZ"
 ---
 
