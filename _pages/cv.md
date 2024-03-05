@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Applied Mathematics, University of Arizona, 2026 (expected)
+    * National Science Foundation Graduate Research Fellow
 * M.S. in Applied Mathematics, University of Arizona, 2023
 * B.S. in Mathematics, Lycoming College, 2020
 
