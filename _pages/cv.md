@@ -17,24 +17,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-08 to present: Graduate Research Assistant
+  * University of Arizona
+  * Applying machine learning to materials science. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-08 to 2023-08: Graduate Teaching Assistant
+  * University of Arizona
+
+* 2021-01 to 2021-04: Computational Science Intern
+  * National Renewable Energy Laboratory
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Applied Mathematics
+* Materials Science
+  * CALPHAD 
+* Programming & Database Systems
+  * Python, C++, Matlab, Java, Perl, JavaScript, PHP, Silverlake, MySQL, R, Cognos
 
 Publications
 ======
@@ -42,7 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Brown Bag Student Colloquium Coordinator (2023 - 2024)
+* Mentoring 2 Students in Peer Mentoring Program (2023 - 2024)
