@@ -1,11 +1,8 @@
 ---
-permalink: /projects/
+layout: archive
 title: ""
-excerpt: ""
+permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
 ---
 # Class Projects 
 
