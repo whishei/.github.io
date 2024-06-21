@@ -18,6 +18,8 @@ In my first ever publication,[Automated segmentation and chord length distributi
 ### Feature Extraction for Properties Prediction 
 Machine learning of microstructure–property relationships from data is an emerging approach in computational materials science. Most existing machine learning efforts focus on the development of task-specific models for each microstructure–property relationship. We propose utilizing a pre-trained foundational vision model for the extraction of task-agnostic microstructure features and subsequent light-weight machine learning. We demonstrate our approach with a pre-trained DinoV2 model on unsupervised representation of an ensemble of two-phase microstructures and modeling of their overall elastic stiffness. Our results show the potential of foundational vision models for robust microstructure representation and efficient machine learning of microstructure–property relationships without the need for expensive task-specific training or fine-tuning.
 
+I presented this work at the Computer Vision for Materials Science Workshop at CVPR 2024. Check out my [slides](https://whishei.github.io/files/CVPR_presentation.pdf) here!
+
 
 
 
