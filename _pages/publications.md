@@ -5,19 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
-
-{% include base_path %}
-
 # Publications
 
 ## [SR-CLD: spatially-resolved chord length distributions for statistical description, visualization, and alignment of non-uniform microstructures] (https://arxiv.org/abs/2409.03729)
