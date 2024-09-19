@@ -6,8 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Publications
-
 ## [SR-CLD: spatially-resolved chord length distributions for statistical description, visualization, and alignment of non-uniform microstructures](https://arxiv.org/abs/2409.03729)
 ### Authors: Sheila E. Whitman, Marat I. Latypov
 This study introduces the calculation of spatially-resolved chord length distribution (SR-CLD) as an efficient approach for quantifying and visualizing non-uniform microstructures in heterogeneous materials. SR-CLD enables detailed analysis of spatial variation of microstructure constituent sizes in different directions that can be overlooked with traditional descriptions. We present the calculation of SR-CLD using efficient scan-line algorithm that counts pixels in constituents along pixel rows or columns of microstructure images for detailed, high-resolution SR-CLD maps. We demonstrate the application of SR-CLD in two case studies: one on synthetic polycrystalline microstructures with known and intentionally created uniform and gradient spatial distributions of grain size; and one on experimental images of two-phase microstructures of additively manufactured Ti alloys with significant spatially non-uniform distributions of laths of one of the phases. Additionally, we present how SR-CLDs can enable automated, computationally efficient, and robust alignment of large sets of images for merging into accurate composite images of large microstructure areas.
