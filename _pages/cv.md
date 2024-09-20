@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Resume / CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-#[CV](https://whishei.github.io/files/CVPR_presentation.pdf) 
 [Resume](https://whishei.github.io/files/Whitman_Sheila_Resume.pdf)  
+[CV](https://whishei.github.io/files/Whitman_Sheila_Resume.pdf)  
 
 ## Education
 * Ph.D in Applied Mathematics, University of Arizona, 2026 (expected)
