@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Resume / CV Highlights
+# [Resume](files/Whitman_Sheila_Resume.pdf) / CV Highlights
 
 ## Education
 * Ph.D in Applied Mathematics, University of Arizona, 2026 (expected)
