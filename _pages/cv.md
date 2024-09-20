@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-#[Resume](https://whishei.github.io/files/Whitman_Sheila_Resume.pdf) / CV 
+#[CV](https://whishei.github.io/files/CVPR_presentation.pdf) 
+[Resume](https://whishei.github.io/files/Whitman_Sheila_Resume.pdf)  
 
 ## Education
 * Ph.D in Applied Mathematics, University of Arizona, 2026 (expected)
