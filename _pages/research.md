@@ -9,7 +9,7 @@ author_profile: true
 
 # Research Focus Areas
 
-Generally, my research focuses at the intersection of applied mathematics and materals science. Specifically, I utilize machine learning, computer vision, and natural language proceessing techniques to acceelerate the materials design process.
+Generally, my research focuses at the intersection of applied mathematics and materals science. Specifically, I utilize machine learning, computer vision, and natural language proceessing techniques to accelerate the materials design process.
 
 ## Microstructure - Processing - Property Relationships
 One of the key challenges in materials science is understanding and modeling the relationships between processing, microstructure, and properties to design materials with desired characteristics. My current research focuses on modeling the microstructure-property relationships using machine learning. Traditional methods, such as statistical techniques and convolutional neural networks, face limitations—statistical methods often require precise segmentation, while CNNs demand extensive microstructure data. To address these challenges, I am exploring the use of vision transformers, leveraging pre-trained models like DinoV2 to efficiently extract task-agnostic features from microstructure images. This approach aims to enhance the prediction of material properties, such as elastic stiffness, without the need for expensive, task-specific training or fine-tuning, ultimately advancing the efficiency and effectiveness of the materials design process. In the future, we aim to extend this work by including compositions and processing conditions to improve the prediction accuracy.
