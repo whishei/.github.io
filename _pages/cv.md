@@ -48,7 +48,9 @@ redirect_from:
   * Database Management Systems: MySQL
 
 ## Publications
-* Whitman, Sheila E., Hu, G., Taylor, H. C., Wicker, R. B., Latypov, M.I., “Automated segmentation and chord length distribution of melt pools in complex 3D printed metal artifacts.” IMMI (2023).
+* S.E. Whitman, G. Hu, H. C. Taylor, R. B. Wicker, M.I. Latypov, [Automated segmentation and chord length distribution of melt pools in complex 3D printed metal artifacts](https://link.springer.com/article/10.1007/s40192-023-00329-z) *Integrating Materials and Manufacturing Innovation* (2023).
+* S.E. Whitman, M.I. Latypov, [SR-CLD: spatially-resolved chord length distributions for statistical description, visualization, and alignment of non-uniform microstructures](https://arxiv.org/abs/2409.03729) *Submitted to Materials Characterization* (2024).
+* S.E. Whitman, G. Hu, M.I. Latypov, [Learning microstructure–property relationships in materials with robust features from vision transformers](https://openaccess.thecvf.com/content/CVPR2024W/CV4MS/papers/Whitman_Learning_Microstructure--Property_Relationships_in_Materials_with_Robust_Features_from_Vision_CVPRW_2024_paper.pdf) *Computer Vision for Materials Science - CVPR Workshop* (2024).
   
 ## Conferences
 * Computer Vision and Pattern Recognition (2024)
