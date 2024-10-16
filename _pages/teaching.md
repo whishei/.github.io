@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Teaching
 
-Currently I am being funded under the National Science Foundation Graduate Research Fellowship Program. Therefore I am not holding a teaching assistantship at this time. However, my past students are always encouraged to come back to visit at my Office: ENR2-S390BB.
+Past students are always encouraged to come back to visit at my Office: ENR2-S390BB.
 
 ## Graduate Teaching Assistant 
 ### University of Arizona
