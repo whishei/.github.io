@@ -19,22 +19,19 @@ redirect_from:
 * B.A. in Mathematics, Lycoming College, 2020
     * Minors: Computer Science, Computational Science, & Sociology 
 
-## Work experience
-* Graduate Research Assistant, University of Arizona
-  * 2021-08 to present
-    * Applying machine learning to materials science.
+## Recent Work experience
+* Graduate Research Assistant, University of Arizona (Aug 2021 - Present)
+    * Accelerating sustainable materials design by utilizing machine learning, computer vision, and natural language processing.
  
-* Graduate Fellowship Writing Consultant, University of Arizona
-  * 2024-06 to present
-    * Editing fellowship application essays. 
+* Graduate Fellowship Writing Consultant, University of Arizona (June 2024 - Present)
+    * Mentoring peers and editing fellowship application essays.
 
-* Graduate Teaching Assistant, University of Arizona
-  * 2021-08 to 2023-08
-    * Taught Math 107, Math 112, and Math 186J
+* Graduate Teaching Assistant, University of Arizona (Aug 2021 - Aug 2023)
+    * Taught Math 107, Math 112, and Math 186J.
 
-* Computational Science Intern, National Renewable Energy Laboratory
-  * 2021-01 to 2021-04
+* Computational Science Intern, National Renewable Energy Laboratory (Jan 2021 - April 2021)
     * Migrated and optimized the existing modeling framework to improve lithium-ion battery design.
+   
 
 ## Skills
 * Applied Mathematics
@@ -44,7 +41,7 @@ redirect_from:
 * Materials Science
   * CALPHAD
 * Computer Science
-  * Programming: Advanced - Python, Intermediate - R, C++, Matlab, Java, Javascript
+  * Programming: Advanced - Python (TensorFlow/Keras, PyTorch, Scikit-learn, OpenCV), Intermediate - R, C++, Matlab, Java, Javascript
   * Database Management Systems: MySQL
 
 ## Publications
@@ -58,7 +55,8 @@ redirect_from:
 * APS Division of Fluid Dynamics (2018)
   
   
-## Service and leadership
-* Society for Industrial and Applied Mathematics Secretary (2024 - 2025)
-* Brown Bag Student Colloquium Coordinator (2023 - 2024)
-* Mentoring 2 Students in Peer Mentoring Program (2023 - 2024)
+## Outreach 
+* Graduate Representative, Mathematics Dept. Climate, Diversity, Equity, and Inclusion Committee (2024 - 2025)
+* Secretary, Society for Industrial and Applied Mathematics (2024 - 2025)
+* Brown Bag Student Colloquium Coordinator, Applied Mathematics Graduate Program (2023 - 2024)
+* Peer Mentor, Applied Mathematics Graduate Program (2023 - 2024)
