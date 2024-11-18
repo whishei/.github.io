@@ -14,5 +14,5 @@ As a GTA at the University of Arizona, I individually taught three classes: Math
 
 ## Undergraduate Teaching Assistant 
 ### Lycoming College 
-As a UTA at Lycoming College, I assisted professors with grading and classroom managament in multiple mathematics and computer science courses. Additionally, I was a tutor in the Mathematics Lab. 
+As a UTA at Lycoming College, I assisted professors with grading and classroom management in multiple mathematics and computer science courses. Additionally, I was a tutor in the Mathematics Lab. 
 
