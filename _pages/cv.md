@@ -55,7 +55,7 @@ redirect_from:
   
   
 ## Outreach 
-* Graduate Representative, Mathematics Dept. Climate, Diversity, Equity, and Inclusion Committee (2024 - 2025)
+* Graduate Representative, Mathematics Dept. Climate Committee (2024 - 2025)
 * Secretary, Society for Industrial and Applied Mathematics (2024 - 2025)
 * Brown Bag Student Colloquium Coordinator, Applied Mathematics Graduate Program (2023 - 2024)
 * Peer Mentor, Applied Mathematics Graduate Program (2023 - 2024)
